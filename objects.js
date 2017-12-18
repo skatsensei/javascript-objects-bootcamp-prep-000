@@ -1,7 +1,7 @@
 var playlist = {
   oasis: "wonderwall"
 }
-function updatePlaylist(playlist, artistName, SongTitle){
+function updatePlaylist(playlist, artistName, songTitle){
   playlist.artistName = "SongTitle"
   updatePlaylist()
 }
