@@ -1,7 +1,7 @@
 var playlist = {
-  Drake: "Teenage Fever"
+  oasis: "wonderwall"
 }
-function updatePlaylist(playlist, artistName, songTitle) {
-  return updatePlaylist
-  playlist
+function updatePlaylist(playlist, artistName, SongTitle){
+  playlist.artistName = "SongTitle"
+  return playlist
 }
