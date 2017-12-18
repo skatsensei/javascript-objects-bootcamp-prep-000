@@ -8,5 +8,5 @@ function updatePlaylist(playlist, artistName, songTitle){
 var playlist = {artistName: "Random"}
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName
-  return playlist
+  playlist
 }
